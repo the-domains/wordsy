@@ -1,6 +1,6 @@
 name: wordsy
 favicon: null
-layout_spectrum: 0.24047499103471637
+layout_spectrum: 0.98827
 typography_spectrum: 0.6749442087020725
 title: Inspiration and Motivation
 cta:
@@ -22,8 +22,8 @@ color:
     - '#476b97'
     - '#7898b1'
     - '#1e2432'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
