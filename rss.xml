@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Inspiration and Motivation]]></title>
         <description><![CDATA[Inspiration and Motivation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wordsy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 09:02:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 09:11:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wordsy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/741dd54c-f2c8-498e-8627-e2669f36acf9.jpg">]]></description>
+            <link>https://thegrid.ai/wordsy/th-best-of-things-happen-to-people-who-are-willing-to-walk-t/index.html</link>
+            <guid isPermaLink="false">827d1f12-b376-4464-b23b-8a4a290d4b5a</guid>
+            <pubDate>Mon, 25 Jul 2016 09:11:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53a24491-0036-45bb-8b4d-07c9d3fc0ae3.jpg">]]></description>
